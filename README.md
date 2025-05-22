@@ -74,13 +74,13 @@ I am a *Data Scientist* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Anupama2103&theme=dark&background=000000" alt="GitHub Streak"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=UditKumar2103&theme=dark&background=000000" alt="GitHub Streak"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Anupama2103/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama2103&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+  <a href="https://github.com/UditKumar2103/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UditKumar2103&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
   </a>
 </div>
 
